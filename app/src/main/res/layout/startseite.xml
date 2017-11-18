@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="de.visionera.androidbuch.amando5.gui.Startseite">
+
+    <TextView
+        style="@style/TextStyleUeberschrift"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/schwarz"
+        android:text="@string/txt_startseiteanzeigen_intro"/>
+
+    <Button
+        android:id="@+id/sf_position_senden"
+        style="@style/Schaltflaeche"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickPositionSenden"
+        android:text="@string/sf_position_senden" />
+
+    <Button
+        android:id="@+id/sf_starte_geokontakte"
+        style="@style/Schaltflaeche"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickGeokontakteVerwalten"
+        android:text="@string/sf_geokontakte_verwalten" />
+
+    <Button
+        style="@style/Schaltflaeche"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickKarteAnzeigen"
+        android:text="@string/sf_karte_anzeigen" />
+
+    <Button
+        style="@style/Schaltflaeche"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickSimulationStarten"
+        android:text="@string/sf_simulation" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/amando_logo"/>
+
+</LinearLayout>

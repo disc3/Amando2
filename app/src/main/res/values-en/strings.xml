@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amando</string>
+
+<string name="startseite_titel">"Amando-Home"</string>
+
+<string name="txt_startseiteanzeigen_intro">"You can choose from the following options:"</string>
+
+<string name="sf_position_senden">"Send Position"</string>
+
+<string name="sf_position_senden_beenden">"Abort Sending"</string>
+
+<string name="sf_geokontakte_verwalten">"Manage Geo-Contacts"</string>
+
+<string name="sf_karte_anzeigen">"Show Map"</string>
+
+<string name="sf_simulation">"Start Simulation"</string>
+
+<string name="txt_geokontakt_name">Name</string>
+
+<string name="txt_geokontakt_telefonnummer">"Phone number"</string>
+
+<string name="txt_geokontakt_letzte_position">"Last Position"</string>
+
+<string name="txt_geokontakt_stichwort">"Keyword"</string>
+
+<string name="txt_geokontakt_datum">"Date"</string>
+
+<string name="men_einstellungen_bearbeiten">"Settings"</string>
+
+<string name="men_hilfe_anzeigen">"Help"</string>
+
+<string name="men_amando_beenden">"Quit"</string>
+
+    <string name="txt_geokontakt_auflisten_keineDaten">No Geo-Contacts found</string>
+</resources>

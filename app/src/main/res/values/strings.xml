@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">
+        Amando
+    </string>
+
+    <string name="men_einstellungen_bearbeiten">
+        Einstellungen
+    </string>
+
+    <string name="men_hilfe_anzeigen">
+        Hilfe
+    </string>
+
+    <string name="men_amando_beenden">
+        Beenden
+    </string>
+
+    <string name="sf_position_senden">
+        Position senden
+    </string>
+
+    <string name="sf_position_senden_beenden">
+        Senden beenden
+    </string>
+
+    <string name="sf_geokontakte_verwalten">
+        Geokontakte verwalten
+    </string>
+
+    <string name="sf_karte_anzeigen">
+        Karte anzeigen
+    </string>
+
+    <string name="sf_simulation">
+        Simulation starten
+    </string>
+
+    <string name="startseite_titel">
+        Amando-Startseite
+    </string>
+
+    <string name="txt_einstell_cat_title_allg">
+        Allgemein
+    </string>
+
+    <string name="txt_einstell_cat_title_position">
+        Position
+    </string>
+
+    <string name="txt_einstell_cat_title_server">
+        Server
+    </string>
+
+    <string name="txt_einstell_gps_min_zeit">
+        Positionsermittlung (Zeit)
+    </string>
+
+    <string name="txt_einstell_gps_min_dist">
+        Positionsermittlung (Distanz)
+    </string>
+
+
+    <string name="txt_einstell_nickname">
+        Nickname
+    </string>
+
+    <string name="txt_einstell_serverort">
+        Ort des Servers
+    </string>
+
+    <string name="txt_einstell_serverort_default">
+        Extern
+    </string>
+
+
+    <string name="txt_einstell_serverort_text">
+        \'Lokal\': lokale Installation\n\'Extern\':Demo-Server
+    </string>
+
+
+    <string name="txt_geokontakt_auflisten_keineDaten">
+        Keine Geokontakte vorhanden
+    </string>
+
+    <string name="txt_geokontakt_datum">
+        Datum
+    </string>
+
+    <string name="txt_geokontakt_letzte_position">
+        Letzte Position
+    </string>
+
+    <string name="txt_geokontakt_name">
+        Name
+    </string>
+
+    <string name="txt_geokontakt_stichwort">
+        Stichwort
+    </string>
+
+    <string name="txt_geokontakt_telefonnummer">
+        Telefonnr.
+    </string>
+
+    <string name="txt_startseiteanzeigen_intro">
+        Sie haben folgende Optionen zur Verfügung:
+    </string>
+
+
+
+</resources>
